@@ -1,16 +1,16 @@
 let questions_by_category = [{
-        category: "Robots",
+        category: "K-dramas",
         100: {
-            question_text: "SPOILER ALERT: HIS DYING WORDS IN THE ANIMATED TRANSFORMERS MOVIE ARE \"TIL ALL ARE ONE\"",
-            answer_text: "Who is Optimus Prime?",
+            question_text: "Seo Dal-mi meets Nam Do San, the founder of Samsan Tech, and they start an AI company together",
+            answer_text: "What is the k-drama Start-Up about?"
         },
         200: {
-            question_text: "THIS ROBOT BOUNTY HUNTER WAS HIRED TO FIND THE MILLENNIUM FALCON IN THE EMPIRE STRIKES BACK",
-            answer_text: "Who is IG-88 or 4-LOM?"
+            question_text: "This show was released in 2020",
+            answer_text: "When was the kdrama Start-Up released?"
         },
         300: {
-            question_text: "ROBOTS B.O.B. AND V.I.N.C.E.N.T. PROVIDED SOME COMIC RELIEF IN THIS DARK 1979 DISNEY SCI-FI FILM",
-            answer_text: "What is The Black Hole?"
+            question_text: "SLS is when you root for the second male lead in a drama and wish the female lead would choose him although you know that it wouldn't happen",
+            answer_text: "What is the second lead syndrome (SLS)?"
         },
         400: {
             question_text: "CHRIS JERICHO HOSTED THIS AUTOMATON FIGHTING COMPETITION ON SYFY IN EARLY 2013",
@@ -22,7 +22,7 @@ let questions_by_category = [{
         }
     },
     {
-        category: "Nicknames",
+        category: "Debora",
         100: {
             question_text: "MINECRAFT CREATOR MARKUS PERSSON IS BETTER KNOWN BY THIS MONOSYLLABIC NICKNAME",
             answer_text: "What is Notch?",
@@ -45,7 +45,7 @@ let questions_by_category = [{
         }
     },
     {
-        category: "Famous first words",
+        category: "Music",
         100: {
             question_text: "\"BITE MY SHINY METAL ASS\"",
             answer_text: "Who is Bender?",
@@ -68,7 +68,7 @@ let questions_by_category = [{
         }
     },
     {
-        category: "Going 'dark'",
+        category: "Youtube Drama",
         100: {
             question_text: "THIS UNFORGIVING ACTION/RPG FROM FROM SOFTWARE TAKES PLACE IN THE KINGDOM OF LORDRAN",
             answer_text: "What is Dark Souls?",
@@ -91,7 +91,7 @@ let questions_by_category = [{
         }
     },
     {
-        category: "Fictional companies",
+        category: "Zodiac signs",
         100: {
             question_text: "YOU CAN BLAME THIS FICTIONAL COMPANY FOR RESIDENT EVIL'S T-VIRUS",
             answer_text: "What is Umbrella?",
@@ -114,7 +114,7 @@ let questions_by_category = [{
         }
     },
     {
-        category: "Painfully obvious",
+        category: "Computer science",
         100: {
             question_text: "SHE'S THE PRINCESS IN THE CLASSIC RPG THE LEGEND OF ZELDA",
             answer_text: "Who is Zelda?",

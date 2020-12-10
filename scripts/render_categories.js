@@ -1,10 +1,10 @@
 let categories = [
-    "Robots",
-    "Nicknames",
-    "Famous first words",
-    "Going 'dark'",
-    "Fictional companies",
-    "Painfully obvious"
+    "K-dramas",
+    "Debora",
+    "Music",
+    "Youtube Drama",
+    "Zodiac Signs",
+    "Computer Science"
 ];
 
 /* TODO: Program the following:
