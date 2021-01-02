@@ -1,47 +1,50 @@
 let questions_by_category = [{
         category: "K-dramas",
         100: {
-            question_text: "Seo Dal-mi meets Nam Do San, the founder of Samsan Tech, and they start an AI company together",
-            answer_text: "What is the k-drama Start-Up about?"
+            question_text: "What is the k-drama Start-Up about?",
+            answer_text: "Seo Dal-mi meets Nam Do San, the founder of Samsan Tech and they start an AI company together"
+            
         },
         200: {
-            question_text: "This show was released in 2020",
-            answer_text: "When was the kdrama Start-Up released?"
+            question_text: "When was the kdrama Start-Up released?",
+            answer_text: "This show was released in 2020"
+           
         },
         300: {
-            question_text: "SLS is when you root for the second male lead in a drama and wish the female lead would choose him although you know that it wouldn't happen",
-            answer_text: "What is the second lead syndrome (SLS)?"
+            question_text: "What is the second lead syndrome (SLS)?",
+            answer_text: "SLS is when you root for the second male lead in a drama and wish the female lead would choose him although you know that it wouldn't happen"
+           
         },
         400: {
-            question_text: "CHRIS JERICHO HOSTED THIS AUTOMATON FIGHTING COMPETITION ON SYFY IN EARLY 2013",
-            answer_text: "What is Robot Combat League?"
+            question_text: "How many episodes are there in the kdrama called Penthouse?",
+            answer_text: "There are 18 episodes and it's an ongoing series"
         },
         500: {
-            question_text: "HE'S THE ROBOT WHO GETS ELECTROCUTED AND COMES TO LIFE IN 1986'S SHORT CIRCUIT",
-            answer_text: "Who is Johnny 5/Number 5?"
+            question_text: "What is Penthouse about?",
+            answer_text: "There is a murder mystery and love affair in the 100 story penthouse."
         }
     },
     {
         category: "Debora",
         100: {
-            question_text: "MINECRAFT CREATOR MARKUS PERSSON IS BETTER KNOWN BY THIS MONOSYLLABIC NICKNAME",
-            answer_text: "What is Notch?",
+            question_text: "What is Debora's favorite color?",
+            answer_text: "Debora likes pastel colors especially pastel pink and purple",
         },
         200: {
-            question_text: "IT'S THE ALTER EGO OF PENNY ARCADE'S MIKE KRAHULIK - AND THE NAME OF MIKE'S SON",
-            answer_text: "What is Gabe?"
+            question_text: "When is Debora's birthday?",
+            answer_text: "May 13, 2003"
         },
         300: {
-            question_text: "ESPORTSCASTER AND MACHINIMA PERSONALITY RYAN WYATT IS BEST KNOWN BY THIS SHORT NICKNAME",
-            answer_text: "What is Fwiz?"
+            question_text: "When did Debora start watching kdramas?",
+            answer_text: "freshman year of high school when she met Lucky smh"
         },
         400: {
-            question_text: "IN ADDITION TO \"CLIFFYB\", CLIFF BLESZINSKI IS SOMETIMES KNOWN BY THIS LARGE NICKNAME, BRO",
-            answer_text: "What is Dude Huge?"
+            question_text: "What is Debora's most used social media app?",
+            answer_text: "Instgram and tik tok"
         },
         500: {
-            question_text: "LARRY HRYB BORROWED HIS GAMERTAG, \"MAJOR NELSON\", FROM THIS 1960S SITCOM",
-            answer_text: "What is I Dream of Jeannie?"
+            question_text: "What is one of Debora's greatest fears?",
+            answer_text: "fear of heights"
         }
     },
     {
