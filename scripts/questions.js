@@ -50,12 +50,12 @@ let questions_by_category = [{
     {
         category: "Music",
         100: {
-            question_text: "\"BITE MY SHINY METAL ASS\"",
-            answer_text: "Who is Bender?",
+            question_text: "When was Keshi's first song released?",
+            answer_text: "Over You by Keshi was made in 2017",
         },
         200: {
-            question_text: "\"WHY, YOU SLIMY, DOUBLE-CROSSING, NO-GOOD SWINDLER. YOU GOT A LOT OF GUTS COMING HERE, AFTER WHAT YOU PULLED\"",
-            answer_text: "Who is Lando Calrissian?"
+            question_text: "What is Debora's favorite music genre?",
+            answer_text: "korean rnb"
         },
         300: {
             question_text: "\"LISTEN TO MY STORY. THIS MAY BE OUR LAST CHANCE.\"",
