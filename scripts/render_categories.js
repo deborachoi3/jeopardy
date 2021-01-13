@@ -2,7 +2,7 @@ let categories = [
   "K-dramas",
   "Debora",
   "Music",
-  "Youtube Drama",
+  "Food",
   "Zodiac Signs",
   "Computer Science"
 ];
